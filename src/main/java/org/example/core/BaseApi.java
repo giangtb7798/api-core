@@ -1,5 +1,6 @@
 package org.example.core;
 
+import com.google.gson.Gson;
 import org.example.httprequest.HttpRequests;
 
 import java.io.IOException;
